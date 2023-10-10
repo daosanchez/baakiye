@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\bin\Debug\form26.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\bin\Debug\form26.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\bin\Debug\form26.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\obj\Debug\form26.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\obj\Debug\form26.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\obj\Debug\form26.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\obj\Debug\form26.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\obj\Debug\form26.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\obj\Debug\form26.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\obj\Debug\form26.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanur\form26\form26\obj\Debug\form26.pdb
